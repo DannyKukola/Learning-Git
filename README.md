@@ -29,7 +29,7 @@ Reviewed and learned the following:
 -Switching branches with git checkout
 -Merging branches with git merge
 -Resolving merge conflicts
--Checking out previous commits and “time travel”
+-Checking out previous commits and 'time travel'
 -Comparing changes with git diff
 -Understanding push, fetch, and pull
 -Uploading code with git push
