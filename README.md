@@ -1,121 +1,42 @@
 # Learning-Git
-Learning Github!
+Learning Github and Git!
 
 Reviewed and learned the following:
 
-* Terminal basics
-
-* Change directory
-
-* Create directory
-
-* Create file
-
-* List files
-
-* Parent directory navigation
-
-* Git
-
-* GitHub
-
-* Repository
-
-* Local repository
-
-* Remote repository
-
-* Working directory
-
-* Staging area
-
-* Commit history
-
-* Branch
-
-* Merge
-
-* Pull request
-
-* Base branch
-
-* Compare branch
-
-* Clone
-
-* Checkout
-
-* Fetch
-
-* Pull
-
-* Push
-
-* Reset
-
-* Restore
-
-* Revert
-
-* Rebase
-
-* Stash
-
-* Diff
-
-* Commit
-
-* Tracking changes
-
-* Staging changes
-
-* Unstaging changes
-
-* Deleting files
-
-* Viewing commit history
-
-* Viewing shortened commit history
-
-* Comparing commits
-
-* Uploading local changes
-
-* Downloading remote changes
-
-* Combining remote and local changes
-
-* Saving unfinished work
-
-* Undoing commits safely
-
-* Rewriting commit history
-
-* Resolving merge conflicts
-
-* Switching branches
-
-* Creating branches
-
-* Combining branches
-
-* Recursive folder removal
-
-* Time travel to previous commits
-
-* Force deleting
-
-* Branch inheritance
-
-* Commits existing only in their own branch until merged
-
-* Pull equals fetch plus merge
-
-* Rebase rewriting history
-
-* Reset removing later commits
-
-* Revert creating a new commit to undo changes
-
-* Pull request review workflow
+-What Git is and how version control works
+-Differences between Git and GitHub
+-Local vs. remote repository architecture
+-Installing Git on Windows, Mac, and Linux
+-Setting up the terminal and verifying installation
+-Creating a local project and files
+-Initializing a repository with git init
+-Creating a remote repository on GitHub
+-Cloning repositories with git clone
+-Checking repository status with git status
+-Staging changes with git add
+-Different git add variations:
+*git add .
+*git add -A
+-adding specific files
+-Unstaging files with git reset
+-Creating commits with git commit
+-Configuring Git username and email
+-Undoing the last commit with git reset HEAD
+-Deleting tracked files with git rm
+-Stopping Git from tracking files with git rm --cached
+-Viewing commit history with git log
+-Understanding Git branches
+-Switching branches with git checkout
+-Merging branches with git merge
+-Resolving merge conflicts
+-Checking out previous commits and “time travel”
+-Comparing changes with git diff
+-Understanding push, fetch, and pull
+-Uploading code with git push
+-Difference between git fetch and git pull
+-Discarding local changes with git restore
+-Saving unfinished work with git stash
+-Safely undoing commits with git revert
+-Cleaning up history with git rebase
+-Pull requests and collaboration workflows
 
