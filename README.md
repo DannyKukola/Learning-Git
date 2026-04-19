@@ -1,5 +1,5 @@
 # Learning-Git
-Learning Github and Git!!
+Learning Github & Git!!
 
 Reviewed and learned the following:
 
